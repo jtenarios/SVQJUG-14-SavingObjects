@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tena.iml" filepath="$PROJECT_DIR$/.idea/modules/Tena.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tena_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Tena_main.iml" group="Tena" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tena_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Tena_test.iml" group="Tena" />
+    </modules>
+  </component>
+</project>
